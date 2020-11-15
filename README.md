@@ -5,7 +5,7 @@
 
 <p align="center">🤝 I’m looking for help with <b>Finding remote work</b></p>
 
-<p align="center">📫 How to reach me <b>**blakewenloe@yahoo.com**</b> or <b>[LinkedIn](https://www.linkedin.com/in/blake-enloe/)</b></p>
+<p align="center">📫 How to reach me <b>blakewenloe@yahoo.com</b> or <b>[LinkedIn]</b>(https://www.linkedin.com/in/blake-enloe/)</p>
 
 </p>
 <h2 align="center">Languages and Tools:</h2>

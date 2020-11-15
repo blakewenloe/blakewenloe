@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Blake</h1>
 <h3 align="center">I'm a Full-Stack Javascript Engineer from College Station, Texas</h3>
 
-<p align="center">👯 I’m looking to collaborate on <b>**Anything community-oriented!**</b></p>
+<p align="center">👯 I’m looking to collaborate on <b>Anything community-oriented!</b></p>
 
-<p align="center">🤝 I’m looking for help with <b>**Finding remote work**</b></p>
+<p align="center">🤝 I’m looking for help with <b>Finding remote work</b></p>
 
 <p align="center">📫 How to reach me <b>**blakewenloe@yahoo.com**</b> or <b>[LinkedIn](https://www.linkedin.com/in/blake-enloe/)</b></p>
 

@@ -10,7 +10,7 @@
 <a href="https://twitter.com/blakeenloe91" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="blakeenloe91" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/blake-enloe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="blake-enloe" height="30" width="40" /></a>
 </p>
-
+</br></br>
 <p align="center">👯 I’m looking to collaborate on <b>Anything community-oriented!</b></p>
 
 <p align="center">🤝 I’m looking for help with <b>Finding remote work</b></p>
